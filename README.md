@@ -1,2 +1,2 @@
-# Stepik-HomeWord
+# Stepik-HomeWork
 Rep for homework 
