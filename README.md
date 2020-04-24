@@ -1,2 +1,2 @@
-# Stepik-Selen-Python-course
+# Stepik-HomeWord
 Rep for homework 
